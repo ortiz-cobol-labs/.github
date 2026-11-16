@@ -61,7 +61,7 @@ sudo apt install open-cobol build-essential
 ### Build & Run Example
 
 ```bash
-git clone [https://github.com/ortiz-cobol-labs/core-banking.git](https://github.com/ortiz-cobol-labs/core-banking.git)
+git clone https://github.com/ortiz-cobol-labs/core-banking.git
 cd core-banking
 make build
 make run
@@ -78,6 +78,4 @@ make run
 
 [GitHub Profile](https://github.com/ortizdavid) • [Portfolio](https://ortizdavid.github.io)
 
-```
 
-```
