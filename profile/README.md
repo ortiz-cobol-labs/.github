@@ -18,11 +18,11 @@ The core mission of **ortiz-cobol-labs** is to bridge the gap between legacy mai
 
 | Repository | Description | Technical Focus |
 | :--- | :--- | :--- |
-| **[`cobol-pocs`](#)** | Laboratory for syntax, data representation (`PICTURE`, `COMP`), file I/O operations, and procedural logic. | COBOL, GNUCobol, Makefile |
-| **[`core-banking`](#)** | Central banking engine simulating accounts, ledger movements, balance calculations, and batch end-of-day processes. | COBOL, Copybooks, Batch |
-| **[`core-assurance`](#)** | Insurance engine covering policy issuance, premium calculation, coverage periods, and claims processing. | COBOL, Financial Algorithms |
-| **[`cobol-dotnet-interop`](#)** | Interoperability patterns connecting legacy COBOL routines with C# (.NET Core) APIs and services. | COBOL, .NET Core, C# |
-| **[`cobol-go-interop`](#)** | High-throughput integration between COBOL batch routines and Go microservices (*Strangler Fig Pattern*). | COBOL, Go, Cgo/IPC |
+| **[`cobol-pocs`](https://github.com/ortiz-cobol-labs/cobol-pocs)** | Laboratory for syntax, data representation (`PICTURE`, `COMP`), file I/O operations, and procedural logic. | COBOL, GNUCobol, Makefile |
+| **[`core-banking`](https://github.com/ortiz-cobol-labs/core-banking)** | Central banking engine simulating accounts, ledger movements, balance calculations, and batch end-of-day processes. | COBOL, Copybooks, Batch |
+| **[`core-assurance`](https://github.com/ortiz-cobol-labs/core-assurance)** | Insurance engine covering policy issuance, premium calculation, coverage periods, and claims processing. | COBOL, Financial Algorithms |
+| **[`cobol-dotnet-interop`](https://github.com/ortiz-cobol-labs/cobol-dotnet-interop)** | Interoperability patterns connecting legacy COBOL routines with C# (.NET Core) APIs and services. | COBOL, .NET Core, C# |
+| **[`cobol-go-interop`](https://github.com/ortiz-cobol-labs/cobol-go-interop)** | High-throughput integration between COBOL batch routines and Go microservices (*Strangler Fig Pattern*). | COBOL, Go, Cgo/IPC |
 
 ---
 
